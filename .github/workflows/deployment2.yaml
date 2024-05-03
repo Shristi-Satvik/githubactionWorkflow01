@@ -1,4 +1,4 @@
-name: Deployment Exercise 2
+name: Deployment Workflow2
 on: push
 jobs:
   lint:
